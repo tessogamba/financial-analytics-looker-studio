@@ -1,0 +1,162 @@
+company,year,category,current_ratio,liquidity_risk,debt_equity_ratio,leverage_risk,overall_risk
+AAPL,2009,IT,2.7425,Healthy,0.0,Low leverage,Stable
+AAPL,2010,IT,2.0113,Healthy,0.0,Low leverage,Stable
+AAPL,2011,IT,1.6084,Healthy,0.0,Low leverage,Stable
+AAPL,2012,IT,1.4958,Moderate,0.0,Low leverage,Stable
+AAPL,2013,IT,1.6786,Healthy,0.1373,Low leverage,Stable
+AAPL,2014,IT,1.0801,Moderate,0.3164,Low leverage,Stable
+AAPL,2015,IT,1.1088,Moderate,0.539,Low leverage,Stable
+AAPL,2016,IT,1.3527,Moderate,0.6786,Low leverage,Stable
+AAPL,2017,IT,1.2761,Moderate,0.863,Low leverage,Stable
+AAPL,2018,IT,1.1329,Moderate,1.0685,Moderate,Stable
+AAPL,2019,IT,1.5401,Healthy,1.194,Moderate,Stable
+AAPL,2020,IT,1.3636,Moderate,1.7208,Moderate,Stable
+AAPL,2021,IT,1.0746,Moderate,1.9768,Moderate,Stable
+AAPL,2022,IT,0.8794,High risk,2.3695,High leverage,At risk
+AIG,2009,Bank,1.0,Moderate,1.1552,Moderate,Stable
+AIG,2010,Bank,1.0,Moderate,0.7548,Low leverage,Stable
+AIG,2011,Bank,1.0,Moderate,0.7349,Low leverage,Stable
+AIG,2012,Bank,1.0,Moderate,0.4915,Low leverage,Stable
+AIG,2013,Bank,1.0,Moderate,0.4125,Low leverage,Stable
+AIG,2014,Bank,1.0,Moderate,0.291,Low leverage,Stable
+AIG,2015,Bank,1.0,Moderate,0.3242,Low leverage,Stable
+AIG,2016,Bank,1.0,Moderate,0.4022,Low leverage,Stable
+AIG,2017,Bank,1.0,Moderate,0.4815,Low leverage,Stable
+AIG,2018,Bank,1.0,Moderate,0.6027,Low leverage,Stable
+AIG,2019,Bank,1.0,Moderate,0.5243,Low leverage,Stable
+AIG,2020,Bank,1.0,Moderate,0.5586,Low leverage,Stable
+AIG,2021,Bank,1.0,Moderate,0.4377,Low leverage,Stable
+AIG,2022,Bank,1.0,Moderate,0.6435,Low leverage,Stable
+AMZN,2009,LOGI,1.3304,Moderate,0.2007,Low leverage,Stable
+AMZN,2010,LOGI,1.3254,Moderate,0.2274,Low leverage,Stable
+AMZN,2011,LOGI,1.1741,Moderate,0.0329,Low leverage,Stable
+AMZN,2012,LOGI,1.1207,Moderate,0.3765,Low leverage,Stable
+AMZN,2013,LOGI,1.0716,Moderate,0.3274,Low leverage,Stable
+AMZN,2014,LOGI,1.1153,Moderate,0.7695,Low leverage,Stable
+AMZN,2015,LOGI,1.0536,Moderate,0.6147,Low leverage,Stable
+AMZN,2016,LOGI,1.0448,Moderate,0.399,Low leverage,Stable
+AMZN,2017,LOGI,1.04,Moderate,0.893,Low leverage,Stable
+AMZN,2018,LOGI,1.0981,Moderate,0.5395,Low leverage,Stable
+AMZN,2019,LOGI,1.097,Moderate,0.3773,Low leverage,Stable
+AMZN,2020,LOGI,1.0502,Moderate,0.3406,Low leverage,Stable
+AMZN,2021,LOGI,1.1358,Moderate,0.3526,Low leverage,Stable
+AMZN,2022,LOGI,0.9446,High risk,0.4598,Low leverage,At risk
+BCS,2009,BANK,1.0,Moderate,8.5152,High leverage,At risk
+BCS,2010,BANK,1.0,Moderate,9.3328,High leverage,At risk
+BCS,2011,BANK,1.0,Moderate,7.6045,High leverage,At risk
+BCS,2012,BANK,1.0,Moderate,7.688,High leverage,At risk
+BCS,2013,BANK,1.0,Moderate,6.6208,High leverage,At risk
+BCS,2014,BANK,1.0,Moderate,5.0612,High leverage,At risk
+BCS,2015,BANK,1.0,Moderate,3.6646,High leverage,At risk
+BCS,2016,BANK,1.0,Moderate,3.5002,High leverage,At risk
+BCS,2017,BANK,1.0,Moderate,5.2797,High leverage,At risk
+BCS,2018,BANK,1.0,Moderate,5.8975,High leverage,At risk
+BCS,2019,BANK,1.0,Moderate,5.3348,High leverage,At risk
+BCS,2020,BANK,1.0,Moderate,6.0327,High leverage,At risk
+BCS,2021,BANK,1.0,Moderate,6.3396,High leverage,At risk
+BCS,2022,BANK,1.0,Moderate,7.1602,High leverage,At risk
+GOOG,2009,IT,10.6178,Healthy,0.0,Low leverage,Stable
+GOOG,2010,IT,4.1579,Healthy,0.0749,Low leverage,Stable
+GOOG,2011,IT,5.9192,Healthy,0.0723,Low leverage,Stable
+GOOG,2012,IT,4.2166,Healthy,0.0772,Low leverage,Stable
+GOOG,2013,IT,4.5817,Healthy,0.0601,Low leverage,Stable
+GOOG,2014,IT,4.6878,Healthy,0.0504,Low leverage,Stable
+GOOG,2015,IT,4.6667,Healthy,0.0434,Low leverage,Stable
+GOOG,2016,IT,6.2908,Healthy,0.0283,Low leverage,Stable
+GOOG,2017,IT,5.1403,Healthy,0.026,Low leverage,Stable
+GOOG,2018,IT,3.919,Healthy,0.0226,Low leverage,Stable
+GOOG,2019,IT,3.3741,Healthy,0.0226,Low leverage,Stable
+GOOG,2020,IT,3.0668,Healthy,0.0626,Low leverage,Stable
+GOOG,2021,IT,2.9281,Healthy,0.0589,Low leverage,Stable
+GOOG,2022,IT,2.378,Healthy,0.0574,Low leverage,Stable
+INTC,2009,ELEC,2.7871,Healthy,0.0533,Low leverage,Stable
+INTC,2010,ELEC,3.3892,Healthy,0.0428,Low leverage,Stable
+INTC,2011,ELEC,2.151,Healthy,0.1597,Low leverage,Stable
+INTC,2012,ELEC,2.4312,Healthy,0.2626,Low leverage,Stable
+INTC,2013,ELEC,2.3647,Healthy,0.2308,Low leverage,Stable
+INTC,2014,ELEC,1.7319,Healthy,0.2444,Low leverage,Stable
+INTC,2015,ELEC,2.4492,Healthy,0.3711,Low leverage,Stable
+INTC,2016,ELEC,1.749,Healthy,0.3818,Low leverage,Stable
+INTC,2017,ELEC,1.6934,Healthy,0.3885,Low leverage,Stable
+INTC,2018,ELEC,1.7314,Healthy,0.3535,Low leverage,Stable
+INTC,2019,ELEC,1.4002,Moderate,0.3742,Low leverage,Stable
+INTC,2020,ELEC,1.9087,Healthy,0.4492,Low leverage,Stable
+INTC,2021,ELEC,2.1323,Healthy,0.3994,Low leverage,Stable
+INTC,2022,ELEC,1.5676,Healthy,0.4071,Low leverage,Stable
+MCD,2009,FOOD,1.1431,Moderate,0.7538,Low leverage,Stable
+MCD,2010,FOOD,1.4937,Moderate,0.7862,Low leverage,Stable
+MCD,2011,FOOD,1.2547,Moderate,0.8687,Low leverage,Stable
+MCD,2012,FOOD,1.4464,Moderate,0.8914,Low leverage,Stable
+MCD,2013,FOOD,1.5931,Healthy,0.8826,Low leverage,Stable
+MCD,2014,FOOD,1.5232,Healthy,1.162,Moderate,Stable
+MCD,2015,FOOD,3.2684,Healthy,3.4033,High leverage,At risk
+MCD,2016,FOOD,1.398,Moderate,-11.775,Low leverage,Stable
+MCD,2017,FOOD,1.8429,Healthy,-9.0381,Low leverage,Stable
+MCD,2018,FOOD,1.3631,Moderate,-4.9654,Low leverage,Stable
+MCD,2019,FOOD,0.9826,High risk,-4.1627,Low leverage,At risk
+MCD,2020,FOOD,1.01,Moderate,-4.7848,Low leverage,Stable
+MCD,2021,FOOD,1.7782,Healthy,-7.7424,Low leverage,Stable
+MCD,2022,FOOD,1.4266,Moderate,-5.9805,Low leverage,Stable
+MSFT,2009,IT,1.8229,Healthy,0.1453,Low leverage,Stable
+MSFT,2010,IT,2.1293,Healthy,0.1286,Low leverage,Stable
+MSFT,2011,IT,2.6037,Healthy,0.2088,Low leverage,Stable
+MSFT,2012,IT,2.6029,Healthy,0.18,Low leverage,Stable
+MSFT,2013,IT,2.7118,Healthy,0.1976,Low leverage,Stable
+MSFT,2014,IT,2.504,Healthy,0.2522,Low leverage,Stable
+MSFT,2015,IT,2.4734,Healthy,0.4407,Low leverage,Stable
+MSFT,2016,IT,2.3529,Healthy,0.7425,Low leverage,Stable
+MSFT,2017,IT,2.9186,Healthy,0.9827,Low leverage,Stable
+MSFT,2018,IT,2.9008,Healthy,0.9217,Low leverage,Stable
+MSFT,2019,IT,2.5288,Healthy,0.7053,Low leverage,Stable
+MSFT,2020,IT,2.5158,Healthy,0.5353,Low leverage,Stable
+MSFT,2021,IT,2.08,Healthy,0.4095,Low leverage,Stable
+MSFT,2022,IT,1.7846,Healthy,0.2989,Low leverage,Stable
+MSFT,2023,IT,1.7692,Healthy,0.2291,Low leverage,Stable
+NVDA,2009,ELEC,2.7845,Healthy,0.0107,Low leverage,Stable
+NVDA,2010,ELEC,3.1628,Healthy,0.0092,Low leverage,Stable
+NVDA,2011,ELEC,3.4232,Healthy,0.0074,Low leverage,Stable
+NVDA,2012,ELEC,4.1995,Healthy,0.0052,Low leverage,Stable
+NVDA,2013,ELEC,4.8916,Healthy,0.0039,Low leverage,Stable
+NVDA,2014,ELEC,5.949,Healthy,0.3083,Low leverage,Stable
+NVDA,2015,ELEC,6.3761,Healthy,0.3164,Low leverage,Stable
+NVDA,2016,ELEC,2.5746,Healthy,0.3379,Low leverage,Stable
+NVDA,2017,ELEC,4.774,Healthy,0.4877,Low leverage,Stable
+NVDA,2018,ELEC,8.0269,Healthy,0.2677,Low leverage,Stable
+NVDA,2019,ELEC,7.9436,Healthy,0.2128,Low leverage,Stable
+NVDA,2020,ELEC,7.6738,Healthy,0.1631,Low leverage,Stable
+NVDA,2021,ELEC,4.0904,Healthy,0.4122,Low leverage,Stable
+NVDA,2022,ELEC,6.6503,Healthy,0.4113,Low leverage,Stable
+NVDA,2023,ELEC,3.5156,Healthy,0.4956,Low leverage,Stable
+PCG,2009,Manufacturing,0.8303,High risk,1.2063,Moderate,At risk
+PCG,2010,Manufacturing,0.7713,High risk,1.1613,Moderate,At risk
+PCG,2011,Manufacturing,0.8362,High risk,1.1241,Moderate,At risk
+PCG,2012,Manufacturing,0.8186,High risk,1.0062,Moderate,At risk
+PCG,2013,Manufacturing,0.7977,High risk,1.0127,Moderate,At risk
+PCG,2014,Manufacturing,1.0792,Moderate,0.9802,Low leverage,Stable
+PCG,2015,Manufacturing,0.9136,High risk,1.0164,Moderate,At risk
+PCG,2016,Manufacturing,0.8149,High risk,1.0134,Moderate,At risk
+PCG,2017,Manufacturing,0.881,High risk,0.9824,Low leverage,At risk
+PCG,2018,Manufacturing,0.2205,High risk,1.7046,Moderate,At risk
+PCG,2019,Manufacturing,1.3321,Moderate,0.0,Low leverage,Stable
+PCG,2020,Manufacturing,0.707,High risk,1.9227,Moderate,At risk
+PCG,2021,Manufacturing,0.6356,High risk,2.1152,High leverage,At risk
+PCG,2022,Manufacturing,0.8117,High risk,2.2563,High leverage,At risk
+PYPL,2014,FinTech,1.3224,Moderate,0.1325,Low leverage,Stable
+PYPL,2015,FinTech,1.5163,Healthy,0.0,Low leverage,Stable
+PYPL,2016,FinTech,1.5246,Healthy,0.0,Low leverage,Stable
+PYPL,2017,FinTech,1.4279,Moderate,0.0625,Low leverage,Stable
+PYPL,2018,FinTech,1.2725,Moderate,0.1299,Low leverage,Stable
+PYPL,2019,FinTech,1.43,Moderate,0.2933,Low leverage,Stable
+PYPL,2020,FinTech,1.3264,Moderate,0.4455,Low leverage,Stable
+PYPL,2021,FinTech,1.2218,Moderate,0.3705,Low leverage,Stable
+PYPL,2022,FinTech,1.2753,Moderate,0.5138,Low leverage,Stable
+SHLDQ,2009,Finance,1.3412,Moderate,0.301,Low leverage,Stable
+SHLDQ,2010,Finance,1.3018,Moderate,0.2655,Low leverage,Stable
+SHLDQ,2011,Finance,1.3375,Moderate,0.3707,Low leverage,Stable
+SHLDQ,2012,Finance,1.112,Moderate,0.8047,Low leverage,Stable
+SHLDQ,2013,Finance,1.1011,Moderate,0.9836,Low leverage,Stable
+SHLDQ,2014,Finance,1.0946,Moderate,1.9464,Moderate,Stable
+SHLDQ,2015,Finance,1.0479,Moderate,-3.9958,Low leverage,Stable
+SHLDQ,2016,Finance,1.1116,Moderate,-1.5215,Low leverage,Stable
+SHLDQ,2017,Finance,1.0673,Moderate,-1.0887,Low leverage,Stable
+SHLDQ,2018,Finance,0.7756,High risk,-1.1099,Low leverage,At risk

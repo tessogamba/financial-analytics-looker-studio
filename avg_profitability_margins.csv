@@ -1,0 +1,13 @@
+company,category,avg_gross_margin,avg_net_margin,avg_ebitda_margin
+MSFT,IT,70.29,27.4,42.01
+GOOG,IT,59.77,22.89,33.55
+MCD,FOOD,44.72,22.67,41.68
+AAPL,IT,39.8,22.53,32.02
+INTC,ELEC,59.25,21.39,40.21
+NVDA,ELEC,53.7,17.54,23.08
+PYPL,FinTech,47.48,13.01,21.04
+BCS,BANK,100,8.28,0
+AIG,Bank,23.67,4.69,23.3
+AMZN,LOGI,32.9,2.35,8.41
+PCG,Manufacturing,69.37,-1.46,18.13
+SHLDQ,Finance,24.64,-3.49,-0.54
